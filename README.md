@@ -1,0 +1,1 @@
+este bot de discord va dedicado a quienes quieren apreder mas sobre el cambio climatico para empezar a chatear con el bot y ver los comandos ingrese en el chat de discord los siguiente: !ayuda cuando pongas eso te van a aparecer los otros comandos para interactuar con el bot.
